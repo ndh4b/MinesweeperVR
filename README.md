@@ -15,7 +15,7 @@ The next step is to go ahead and get the epic games launcher. [Epic Download](ht
 
 Now, from *inside* of the Epic Games launcher, find the  Unreal Engine tab and then you can find the install option from that screen.
 
-===
+---
 
 After everything is installed you can begin your project and begin creating. The material contained within this git repository will ***not*** be enough to completely replicate our project. 
 
