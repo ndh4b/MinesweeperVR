@@ -2,8 +2,11 @@
 ### Hack MT project
 
 <style>
+  
 blue { color: blue }
+  
 green { color: green }
+  
 </style>
 
 The following will be a detailed step-by-step analysis of how to create a similar project to this one. We will be using <blue> Unreal Engine</blue> and <cblue> Blender</blue> to create our vision of a VR game similar to Minesweeper. 
