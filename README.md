@@ -14,3 +14,11 @@ The *first* software you should download is Blender. You can use this to create 
 The next step is to go ahead and get the epic games launcher. [Epic Download](https://store.epicgames.com/en-US/download).
 
 Now, from *inside* of the Epic Games launcher, find the  Unreal Engine tab and then you can find the install option from that screen.
+
+===
+
+After everything is installed you can begin your project and begin creating. The material contained within this git repository will ***not*** be enough to completely replicate our project. 
+
+Rather, you will find some object files that we have created and some sample packs that we downloaded for *free*.
+
+It should be noted there will be plenty of editing and logic that will be required of you to ensure that elements within *your own project* can interact with each other seamlessly. 
