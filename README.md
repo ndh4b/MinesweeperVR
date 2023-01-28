@@ -11,4 +11,4 @@ The first software you should download is Blender. You can use this to create 3D
 
 The next step is to go ahead and get the epic games launcher. [Epic Download](https://store.epicgames.com/en-US/download).
 
-Now, 
+Now, from inside of the Epic Games launcher, find the "Unreal Engine" tab and then you can find the install option from that screen.
