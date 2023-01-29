@@ -22,3 +22,7 @@ After everything is installed you can begin your project and begin creating. The
 Rather, you will find some object files that we have created and some sample packs that we downloaded for *free*.
 
 It should be noted there will be plenty of editing and logic that will be required of you to ensure that elements within *your own project* can interact with each other seamlessly. 
+
+---
+
+Inside the repo you will also find the various objects that have been created by members of the team here this weekend at HackMT. Everyone's name will be mentioned in the presentation if you would like to see a list of the participants!
