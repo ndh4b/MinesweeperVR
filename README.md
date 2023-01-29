@@ -29,3 +29,7 @@ It should be noted there will be plenty of editing and logic that will be requir
 ---
 
 Inside the repo you will also find the various objects that have been created by members of the team here this weekend at HackMT. Everyone's name will be mentioned in the presentation if you would like to see a list of the participants!
+
+Check out the [Powerpoint](https://github.com/ndh4b/MinesweeperVR/blob/main/MTSweepers%20VR.pptx) for more info.
+
+Thank you.
