@@ -1,6 +1,9 @@
 # MinesweeperVR
 ### Hack MT project
 
+![Level_1 Small](https://user-images.githubusercontent.com/100747346/215318715-68d2d1b3-bab7-494c-a482-af74af9e8645.jpeg)
+
+
 ---
 
 The following will be a detailed step-by-step analysis of how to create a similar project to this one. We will be using **Unreal Engine** and **Blender** to create our vision of a VR game similar to Minesweeper. 
